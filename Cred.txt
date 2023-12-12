@@ -1,0 +1,10 @@
+Admin:
+ID - Admin
+Pass - 123
+
+Teacher 1:
+id: Akhil@gmail.com
+Pass:0000
+
+Student 1:
+
